@@ -1,0 +1,18 @@
+h1 {
+  padding: 1em;
+  text-align: center;
+}
+
+.edu{
+  display: flex;
+  align-items: center;
+}
+
+.resume_pics{
+  display: inline;
+  vertical-align: top;
+}
+
+.text{
+  display: inline-block;
+}
