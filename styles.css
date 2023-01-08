@@ -3,14 +3,12 @@ h1 {
   text-align: center;
 }
 
-.edu{
-  display: flex;
-  align-items: center;
+div > h2 {
+  text-align: center;
 }
 
 .resume_pics{
-  display: inline;
-  vertical-align: top;
+  text-align: center;
 }
 
 .text{
