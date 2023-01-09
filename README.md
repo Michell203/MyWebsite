@@ -1,2 +1,2 @@
 # MyWebsite
-A personal website for myself that I will be building upon as I learn HTML and CSS. Click [here](https://htmlpreview.github.io/?https://github.com/Michell203/MyWebsite/blob/main/index.html) to view the website.
+A personal website for myself that I will be building upon as I learn HTML and CSS. To view the website, open the "index.html" file, copy the URL, then paste it here: https://htmlpreview.github.io/
