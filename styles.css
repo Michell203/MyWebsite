@@ -3,6 +3,14 @@ h1 {
   text-align: center;
 }
 
+.edu {
+  border: 5px solid red;
+}
+
+p {
+  text-align: center;
+}
+
 div > h2 {
   text-align: center;
 }
