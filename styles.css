@@ -1,7 +1,8 @@
 * {
-  font-family: monospace, "Times New Roman";
+  font-family: Verdana, Geneva, Tahoma, sans-serif, monospace, "Times New Roman";
   font-weight: bold;
-  background-color: rgb(37, 41, 157);
+  color: #242423;
+  background-color: #EBF8D3;
 
 }
 
@@ -11,9 +12,17 @@
 
 .buttonL{
   text-decoration: none;
+  color: #EBF8D3;
+  padding: 14px 25px;
+  background-color: #333533;
+}
+
+.buttonL:hover{
+  text-decoration: none;
   color: black;
   padding: 14px 25px;
-  background-color: red;
+  background-color: #F5CB5C;
+  transition: 0.4s ease-in-out;
 }
 
 
@@ -23,7 +32,11 @@ h1 {
 }
 
 .edu {
-  border: 5px solid red;
+  border: 5px dashed rgb(166, 172, 255);
+}
+
+.edu > div {
+  padding: 15px;
 }
 
 .intro {
