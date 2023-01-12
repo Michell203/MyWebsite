@@ -30,11 +30,14 @@ h1 {
   text-align: center;
 }
 
-.edu {
-  border: 5px dashed rgb(166, 172, 255);
+.edu, .exp {
+  border: 5px solid rgb(166, 172, 255);
+  border-color: #333533;
 }
 
-.edu > div {
+.edu > div, .exp > div {
+  width: 80%;
+  margin: auto;
   padding: 15px;
 }
 
