@@ -32,13 +32,13 @@ h1 {
   text-align: center;
 }
 
-.edu, .exp {
+.edu, .exp, .contact_inf {
   border: 5px solid rgb(166, 172, 255);
   border-color: #333533;
 }
 
-.edu > div, .exp > div {
-  width: 80%;
+.edu > div, .exp > div, .contact_inf > p {
+  width: 75%;
   margin: auto;
   padding: 15px;
 }
