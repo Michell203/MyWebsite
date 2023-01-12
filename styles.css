@@ -3,12 +3,14 @@
   font-weight: bold;
   color: #242423;
   background-color: #EBF8D3;
+  scroll-behavior: smooth;
 
 }
 
 .links{
   text-align: center;
 }
+
 
 .buttonL{
   text-decoration: none;
