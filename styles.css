@@ -4,6 +4,7 @@
   color: #242423;
   background-color: #EBF8D3;
   scroll-behavior: smooth;
+  /* Alternative color schemes: grey background, white text, red boxes*/
 
 }
 
@@ -41,7 +42,7 @@ h1 {
   width: 75%;
   margin: auto;
   padding: 15px;
-  text-align: justify;
+  /*text-align: justify;*/
 }
 
 .intro {
