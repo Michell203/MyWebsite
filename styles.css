@@ -12,6 +12,31 @@
   text-align: center;
 }
 
+nav{
+  overflow: hidden;
+  background-color: #242423;
+  display: block;
+  text-align: center;
+  position: fixed;
+  padding: 0.4%;
+  top: 0;
+  width: 100%;
+}
+
+nav > a{
+  text-decoration: none;
+  padding: 5%;
+  color: #EBF8D3;
+  background-color: #242423;
+
+}
+
+nav > a:hover{
+  color: #242423;
+  background-color: #F5CB5C;
+  transition: 0.4s ease;
+
+}
 
 .buttonL{
   text-decoration: none;
