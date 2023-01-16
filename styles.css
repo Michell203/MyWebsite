@@ -38,6 +38,10 @@ nav > a:hover{
 
 }
 
+#mcgillpic, #progressoft_logo{
+  width: 30%
+}
+
 .buttonL{
   text-decoration: none;
   color: #EBF8D3;
@@ -61,7 +65,7 @@ h1 {
 }
 
 .edu, .exp, .contact_inf {
-  border: 5px solid rgb(166, 172, 255);
+  border: 5px solid;
   border-color: #333533;
 }
 
