@@ -63,16 +63,23 @@ h1 {
   text-align: center;
 }
 
-.edu, .exp, .contact_inf {
+.edu, .exp, .contact_inf, .podcast {
   border: 5px solid;
   border-color: #A4161A
 }
 
-.Subtitle1, .Subtitle2, .Subtitle3 {
+.Subtitle1, .Subtitle2, .Subtitle3, .Subtitle4 {
   width: 75%;
   margin: auto;
   padding: 15px;
   /*text-align: justify;*/
+}
+
+iframe{
+  margin:auto;
+  padding: 2%;
+  display:block;
+  
 }
 
 .intro {
